@@ -1,0 +1,1 @@
+{"front":"What is my name?","back":"Philip","type":"basic"};{"front":"Who is the president?","back":"Donald Trump","type":"basic"};{"front":"What color is the sky?","back":"Blue","type":"basic"};
